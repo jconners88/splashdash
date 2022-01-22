@@ -1,0 +1,44 @@
+h4 {
+	font-size: 1rem;
+	color: red;
+}
+
+.splash-card {
+	width: 500px;
+	padding: 2rem;
+	border-color: lightgrey;
+	text-align: center;
+}
+.minimal {
+	padding: 0;
+	margin: 0;
+	background-color: #343a40;
+	height: 200px;
+	width: 200px;
+}
+.card-holder {
+	padding: 50px;
+}
+.card-image {
+	height: 150px;
+	width: 150px;
+	position: relative;
+	top: 25px;
+}
+.hidden {
+	color: white;
+}
+}
+.splash-title {
+	margin-bottom: 0;
+	padding-top: 5px;
+}
+.splash-footer {
+	margin-bottom: 0;
+}
+.splash-body {
+	margin-bottom: 0;
+	padding: 5px;
+	font-size: .9rem;
+	text-align: left;
+}
